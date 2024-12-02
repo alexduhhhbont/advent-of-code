@@ -32,7 +32,7 @@ print(sum)
 # Part 2
 #
 
-#calculate the how many times each number from the first array appears in the second array
+#calculate how many times each number from the first array appears in the second array
 #store count per number in a dictionary
 count = {}
 def storeCount(number):
